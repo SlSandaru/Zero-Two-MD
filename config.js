@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || 'ZEROTWO=JyEnCSTR#oZIbNckyDiLJrfTnXNVTKN4s
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://sandaru_user:tXGXvmE9u58NbkJ6OvxO9p3RspXss2ZK@dpg-cnjbc6n109ks73bneq80-a.frankfurt-postgres.render.com/sandaru',
 LANG: process.env.BOT_LANG || 'EN' ,
 ANTI_BAD: process.env.ANTI_BAD || 'true',
-MAX_SIZE: process.env.MAX_SIZE || 200,
+MAX_SIZE: process.env.MAX_SIZE || 700,
 ONLY_GROUP: process.env.ONLY_GROUP || 'false',
 ANTI_LINK: process.env.ANTI_LINK || 'true' ,
 ANTI_BOT: process.env.ANTI_BOT || 'false',
